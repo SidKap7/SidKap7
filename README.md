@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sidharth Kapoor aka @SidKap7 
 - 👀 I’m interested in Machine Learning, Artificial Inteligence, Deep Learning, Data Science and Statistics.
 - 🌱 I’m currently learning Deep Learning, Natural language Processing.
-- 💞️ I’m looking to collaborate on projects using NLP or OpenCV
+- 💞️ I’m looking to collaborate on projects using traditional ML, NLP, OpenCV, CNN, GAN and Reinforcement Larning.
 - 📫 Reach me at SidharthKapoor.100@gmail.com or send me a DM on twitter @sid_cool100
